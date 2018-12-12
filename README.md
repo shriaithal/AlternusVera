@@ -66,7 +66,7 @@ We initially as a team performend literature survey on list of features that has
 
 |Features |  Member |
 |-----|-----|
-| Political Affliation              |  Anushri| 
+| Political Affiliation              |  Anushri| 
 | Sensationalism/Psychology Utility |  Harini |  
 | Clickbait                         |  Ravi   | 
 | Context/Venue                     |  Sunder | 
