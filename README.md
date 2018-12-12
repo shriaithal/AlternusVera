@@ -56,6 +56,7 @@ We initially as a team performend literature survey on list of features that has
 5. Spam  
 
 *Other simple features as a part of distillation:*
+
 6. Sentiment Analysis 
 7. LDA Topic Modeling  
 8. Ranking
